@@ -23,12 +23,6 @@ This project explores **encryption techniques** to enhance **data confidentialit
 
 📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18699922/Using.Encryption.to.Enhance.Confidentiality.and.Integrity.4e.-.Marc.Corona.pdf)** 
 
-📂 **Encryption Artifacts & Files**:
-- `my_public_key.asc` – Generated public key for encryption  
-- `secretmessage_ENCRYPTED.txt` – AES-encrypted confidential message  
-- `secretmessage_DECRYPTED.txt` – Successfully decrypted message  
-- `signed_message.gpg` – Digitally signed document for integrity verification  
-
 <h2>✅ Key Takeaways & Security Best Practices</h2>
 
 🔹 **Asymmetric encryption (RSA)** is ideal for **secure key exchange** but is computationally expensive.  
